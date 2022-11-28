@@ -1,0 +1,24 @@
+{"cars" : [
+    {
+        "make" : "Toyota",
+        "year" : 2019,
+        "model" : " Corolla Hatchback",
+        "transmission" : "Automatic"
+
+    },
+    {
+        "make" : "BMW",
+        "year" : 2022,
+        "model" : "X5 M Sport",
+        "transmission" : "Manual"
+
+    },
+    {
+        "make" : "Honda",
+        "year" : 2019,
+        "model" : "Civic Type R",
+        "transmission" : "Manual"
+
+    }
+]
+}

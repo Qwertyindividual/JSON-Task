@@ -1,3 +1,7 @@
+Cars = {
+
+}
+
 fetch('index.json').then(function (response) {
     return response.json();
 }).then(function (obj) {
@@ -8,3 +12,5 @@ alert (
 );
 console.error(error);
 })
+
+
